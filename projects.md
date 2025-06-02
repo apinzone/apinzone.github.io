@@ -14,13 +14,17 @@ title: Projects & Publications
 
 ## Selected Research
 
-- **Relative Rest Index and NBA Performance**  
-  Published in *Journal of Sports Analytics*, 2024  
-  Developed a novel metric (RRI) to quantify rest mismatches and model their influence on game outcomes using multilevel regression.
+- **Relative Rest Index Influence Team Performance in Recent NBA Competition**  
+  In Review for *Journal of Strength and Conditioning Research*, 2025  
+ Employed a multilevel modeling approach to assess game-to-game influence of RRI on team performance during the 2022-23 through 2023-24   NBA regular seasons.
 
-- **Dog–Owner Behavioral Dynamics**  
-  Manuscript under review, *Anthrozoös*  
-  Explores how canine behavior and size predict dog–owner relationships using hierarchical modeling.
+- **The Relationship Between Relative Rest Index and Team Performance Across Competitive NFL Seasons**  
+  _Journal of Strength and Conditioning Research, in press, 2025_ 
+ Assessed the influence of RRI on Win Percentage during all NFL Seasons Dating back to 1970.
+
+- **Relative Rest Index Correlates to Winning Percentage in 2022 National Football League Season: A Preliminary Study**  
+  _International Journal of Strength and Conditioning, 5(1), 2025_ 
+ Developed a novel metric (RRI) to quantify rest mismatches and model their influence on game outcomes using multilevel regression.
 
 ## Applied Work
 
