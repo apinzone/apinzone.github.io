@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Dr. Anthony G. Pinzone
+title: Home
 ---
 
 <div style="text-align: center; margin-bottom: 2em;">
