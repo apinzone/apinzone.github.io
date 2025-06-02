@@ -15,7 +15,7 @@ title: Projects & Publications
 ## Selected Research
 
 - **Relative Rest Index Influence Team Performance in Recent NBA Competition**
-- 
+
   _Journal of Strength and Conditioning Research, In Review, 2025_ 
  Employed a multilevel modeling approach to assess game-to-game influence of RRI on team performance during the 2022-23 through 2023-24   NBA regular seasons.
 
