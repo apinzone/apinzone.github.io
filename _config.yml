@@ -1,4 +1,3 @@
-title: Dr. Anthony G. Pinzone
-description: Personal website for Anthony G. Pinzone, PhD, CSCS*D
-theme: minima
+# _config.yml
+theme: jekyll-theme-cayman
 markdown: kramdown
