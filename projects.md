@@ -14,13 +14,14 @@ title: Projects & Publications
 
 ## Selected Research
 
-- **Relative Rest Index Influence Team Performance in Recent NBA Competition**  
-  In Review for *Journal of Strength and Conditioning Research*, 2025  
+- **Relative Rest Index Influence Team Performance in Recent NBA Competition**
+- 
+  _Journal of Strength and Conditioning Research, In Review, 2025_ 
  Employed a multilevel modeling approach to assess game-to-game influence of RRI on team performance during the 2022-23 through 2023-24   NBA regular seasons.
 
 - **The Relationship Between Relative Rest Index and Team Performance Across Competitive NFL Seasons**
   
-  _Journal of Strength and Conditioning Research, in press, 2025_ 
+  _Journal of Strength and Conditioning Research, In Press, 2025_ 
  Assessed the influence of RRI on Win Percentage during all NFL Seasons Dating back to 1970.
 
 - **Relative Rest Index Correlates to Winning Percentage in 2022 National Football League Season: A Preliminary Study**
@@ -31,12 +32,12 @@ title: Projects & Publications
 ## Applied Work
 
 - **Sports Performance Modeling**  
-  Built predictive fatigue models using NBA schedule data and machine learning classifiers (Python, R).
+  Exploring using game footage and player-level data to predict player and team fatigue with machine learning classifiers (Python, R)  
 
-- **HRV Validation Study**  
-  Compared physiological signal outputs from consumer software to gold-standard ECG metrics.
+- **Open-Source HRV Program *  
+  Development of a peak detection Python algorithm to precisely calculate time-domain HRV from raw ECG signals 
 
 ## Tools & Languages
 
-- Python, R, Git, SQL, scikit-learn, PyTorch  
-- SPSS, ggplot2, Markdown, Jekyll, GitHub Pages
+- Python (NumPy, Pandas, scikit-learn, PyTorch, TensorFlow, SciPy, Matplotlib), R (lme4, nlme, lmerTest, dplyr, tidyr, car, simSlope, emmeans, ggplot2, ggpubr, interactions), Git, Conda
+- Jupyter, Power BI, SPSS, Excel (including VBA), Markdown, Jekyll, GitHub Pages
