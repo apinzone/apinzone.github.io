@@ -10,7 +10,7 @@ title: Dr. Anthony G. Pinzone
   <a href="/contact">Contact</a>
 </div>
 
-<img src="Headshot.PNG" alt="Dr. Anthony G. Pinzone" width="200" style="border-radius: 50%; display: block; margin: auto;">
+<img src="Headshot.png" alt="Dr. Anthony G. Pinzone" width="200" style="border-radius: 50%; display: block; margin: auto;">
 
 **Data Scientist • Lecturer • California State University of San Marcos**  
 _PhD in Exercise Physiology, Kent State University_
