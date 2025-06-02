@@ -1,1 +1,4 @@
-theme: cayman
+title: Dr. Anthony G. Pinzone
+description: Personal website for Anthony G. Pinzone, PhD
+theme: minima
+markdown: kramdown
