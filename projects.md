@@ -40,5 +40,5 @@ title: Projects & Publications
 ## Tools & Languages
 
 - Python (NumPy, Pandas, scikit-learn, PyTorch, TensorFlow, SciPy, Matplotlib)
-- R (lme4, nlme, lmerTest, dplyr, tidyr, car, simSlope, emmeans, ggplot2, ggpubr, interactions), Git, Conda
-- Jupyter, Power BI, SPSS, Excel (including VBA), Markdown, Jekyll, GitHub Pages
+- R (lme4, nlme, lmerTest, dplyr, tidyr, car, simSlope, emmeans, ggplot2, ggpubr, interactions)
+- Git, Conda, Jupyter, Power BI, SPSS, Excel (including VBA), Markdown, Jekyll, GitHub Pages
