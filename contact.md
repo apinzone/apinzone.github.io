@@ -13,6 +13,6 @@ title: Contact
 # Contact
 
 📧 apinzone10@gmail.com  
-🔗 [GitHub](https://github.com/APinzone-Pursuit)  
+🔗 [GitHub](https://github.com/https://github.com/apinzone)  
 🔗 [Google Scholar](https://scholar.google.com/citations?user=GMi1gHsAAAAJ&hl=en&oi=ao)  
-🔗 [LinkedIn](https://www.linkedin.com/in/YOURPROFILE)
+🔗 [LinkedIn](https://www.linkedin.com/in/apinzone)
