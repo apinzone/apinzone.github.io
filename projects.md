@@ -11,6 +11,9 @@ title: Projects & Publications
 </div>
 
 # Projects & Publications
+
+Feel free to check out my [Google Scholar (https://scholar.google.com/citations?user=GMi1gHsAAAAJ&hl=en)] or [ORCID(https://orcid.org/0009-0001-1381-0868] profiles to view all of my peer-reviewed research contributions.
+
 ## Selected Publications
 
 **Relative Rest Index Influences Team Performance in Recent NBA Competition**  
