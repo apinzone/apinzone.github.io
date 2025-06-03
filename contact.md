@@ -38,10 +38,24 @@ title: Contact
 
 <h3 style="margin-top: 2em;">Other Contact Info</h3>
 
-<ul>
-  <li>📩 apinzone10@gmail.com</li>
-  <li>🎓 <a href="https://scholar.google.com/citations?user=GMi1gHsAAAAJ&hl=en&oi=ao">Google Scholar</a></li>
-  <li>📚 <a href="https://orcid.org/0009-0001-1381-0868">ORCID</a></li>
-  <li>🔗 <a href="https://github.com/apinzone">GitHub</a></li>
-  <li>🌐 <a href="https://www.linkedin.com/in/apinzone">LinkedIn</a></li>
-</ul>
+<p>📩 apinzone10@gmail.com</p>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 1em;">
+
+  <a href="https://scholar.google.com/citations?user=GMi1gHsAAAAJ&hl=en&oi=ao" target="_blank">
+    <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar">
+  </a>
+
+  <a href="https://orcid.org/0009-0001-1381-0868" target="_blank">
+    <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID">
+  </a>
+
+  <a href="https://github.com/apinzone" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+
+  <a href="https://www.linkedin.com/in/apinzone" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+
+</div>
