@@ -34,7 +34,6 @@ _International Journal of Strength and Conditioning, 5(1), 2025_
 ➤ Future goals:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;▪ Add frequency domain measures of HRV<br>
 &nbsp;&nbsp;&nbsp;&nbsp;▪ Add sequencing-method derived baroreflex sensitivity calculations<br><br>
-
 ➤ Check out the project on [GitHub](https://github.com/apinzone/OS_HRV/)!
 
 ## Tools & Languages
