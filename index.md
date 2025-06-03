@@ -16,3 +16,11 @@ title: Home
   <a href="/projects">Projects & Publications</a> • 
   <a href="/contact">Contact</a>
 </div>
+
+<hr>
+<footer style="text-align: center; font-size: 0.9em; color: #999; margin-top: 2em;">
+  © 2025 Anthony G. Pinzone • All rights reserved  
+  <br>
+  <a href="mailto:apinzone10@gmail.com">apinzone10@gmail.com</a> • 
+  <a href="https://github.com/apinzone" target="_blank">GitHub</a> • 
+  <a href="https://scholar.google.com/citations?user=GMi1gH
