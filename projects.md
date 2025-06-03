@@ -30,11 +30,12 @@ _International Journal of Strength and Conditioning, 5(1), 2025_
   ➤Exploring use of game footage and player-level data to predict player and team fatigue with machine learning classifiers (Python, R)
 
 **Open-Source HRV Program**  
-  ➤Development of a peak detection Python algorithm to precisely calculate time-domain HRV from raw ECG signals  
-  ➤ Future goals:<br>
-  &nbsp;&nbsp;&nbsp;&nbsp;▪ Add frequency domain measures of HRV<br>
-  &nbsp;&nbsp;&nbsp;&nbsp;▪ Add sequencing-method derived baroreflex sensitivity calculations:<br>
-  ➤Check out the project on [GitHub](https://github.com/apinzone/OS_HRV/)!
+➤ Development of a peak detection Python algorithm to precisely calculate time-domain HRV from raw ECG signals  
+➤ Future goals:<br>
+&nbsp;&nbsp;&nbsp;&nbsp;▪ Add frequency domain measures of HRV<br>
+&nbsp;&nbsp;&nbsp;&nbsp;▪ Add sequencing-method derived baroreflex sensitivity calculations<br><br>
+
+➤ Check out the project on [GitHub](https://github.com/apinzone/OS_HRV/)!
 
 ## Tools & Languages
 ➤Python (NumPy, Pandas, scikit-learn, PyTorch, TensorFlow, SciPy, Matplotlib)  
