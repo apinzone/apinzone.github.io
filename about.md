@@ -24,5 +24,10 @@ In addition to my academic roles, I consult on applied sports science projects a
 
 ## Full Curriculum Vitae
 
-📄 [Download My CV (PDF)](CV PINZONE.pdf)
+<div style="text-align: center; margin-top: 2em;">
+  <a href="CV PINZONE.pdf" target="_blank" style="font-size: 1.1em;">
+    📄 Download My Full CV (PDF)
+  </a>
+</div>
+
 
