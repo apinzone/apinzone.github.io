@@ -1,3 +1,8 @@
+
+---
+layout: default
+title: Home
+---
 <style>
   .page-header {
     text-align: left;
@@ -12,10 +17,6 @@
     font-size: 1rem !important;
   }
 </style>
----
-layout: default
-title: Home
----
 
 <div style="text-align: center; margin-bottom: 2em;">
   <img src="Headshot.png" alt="Dr. Anthony G. Pinzone" width="200" style="border-radius: 50%;"><br>
