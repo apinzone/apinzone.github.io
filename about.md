@@ -23,7 +23,7 @@ Today, I serve as a Lecturer in the Department of Kinesiology at California Stat
 In addition to my academic roles, I consult on applied sports science projects and am currently expanding my expertise in machine learning, predictive analytics, and Python-based modeling. Whether in the lab or the classroom, my mission remains the same: to bridge the gap between theory and practice, and to translate data into actionable insight that enhances performance, well-being, and decision-making.
 
 <footer style="text-align: center; margin-top: 3em; padding-top: 1em; border-top: 1px solid #ccc;">
-  <p style="margin-bottom: 0.5em;">Connect with me:</p>
+  <p style="margin-bottom: 0.5em; color: black;">Connect with me:</p>
   <div style="display: flex; justify-content: center; gap: 12px; flex-wrap: wrap;">
     <a href="https://github.com/apinzone" target="_blank">
       <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub">
