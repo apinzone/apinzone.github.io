@@ -4,7 +4,7 @@ title: Home
 ---
 
 <div style="text-align: center; margin-bottom: 2em;">
-  <img src="Headshot.png" alt="Dr. Anthony G. Pinzone" width="200" style="border-radius: 50%;"><br>
+  <img src="headshot.png" alt="Dr. Anthony G. Pinzone" width="200" style="border-radius: 50%;"><br>
 
   <h1 style="margin: 0.4em 0 0.2em;">Dr. Anthony G. Pinzone</h1>
   <p><strong>Performance Scientist • Lecturer • California State University of San Marcos</strong><br>
