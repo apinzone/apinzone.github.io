@@ -22,20 +22,24 @@ Today, I serve as a Lecturer in the Department of Kinesiology at California Stat
 
 In addition to my academic roles, I consult on applied sports science projects and am currently expanding my expertise in machine learning, predictive analytics, and Python-based modeling. Whether in the lab or the classroom, my mission remains the same: to bridge the gap between theory and practice, and to translate data into actionable insight that enhances performance, well-being, and decision-making.
 
-<div style="text-align: center; margin-top: 2em;">
-  <a href="CV PINZONE.pdf" target="_blank" style="
-    display: inline-block;
-    background-color: #1a73e8;
-    color: white;
-    padding: 10px 20px;
-    font-size: 1.05em;
-    border: none;
-    border-radius: 6px;
-    text-decoration: none;
-    font-weight: 500;
-    box-shadow: 0 2px 6px rgba(0,0,0,0.1);
-    transition: background-color 0.2s ease;
-  ">
+<footer style="text-align: center; margin-top: 3em; padding-top: 1em; border-top: 1px solid #ccc;">
+  <p style="margin-bottom: 0.5em;">Connect with me:</p>
+  <div style="display: flex; justify-content: center; gap: 12px; flex-wrap: wrap;">
+    <a href="https://github.com/apinzone" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub">
+    </a>
+    <a href="https://scholar.google.com/citations?user=GMi1gHsAAAAJ&hl=en&oi=ao" target="_blank">
+      <img src="https://img.shields.io/badge/Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white" alt="Google Scholar">
+    </a>
+    <a href="https://www.linkedin.com/in/apinzone" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+    <a href="/CV%20PINZONE.pdf" target="_blank">
+      <img src="https://img.shields.io/badge/CV-PDF-informational?style=flat&logo=adobeacrobatreader&logoColor=white" alt="Download CV">
+    </a>
+  </div>
+  <p style="font-size: 0.8em; margin-top: 1em;">&copy; 2025 Anthony G. Pinzone</p>
+</footer>
     📄 Download My Full CV (PDF)
   </a>
 </div>
