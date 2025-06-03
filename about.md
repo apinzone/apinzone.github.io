@@ -12,7 +12,7 @@ title: About
 
 # About Me
 
-I’m Dr. Anthony G. Pinzone, a data scientist, applied physiologist, and university lecturer with a deep-rooted passion for uncovering the physiological and behavioral mechanisms behind human performance.
+I’m Anthony Pinzone, a data scientist, applied exercise physiologist, and university lecturer with a deep-rooted passion for uncovering the physiological and behavioral mechanisms behind human performance.
 
 My academic journey began at Hofstra University, where I earned both my Bachelor’s and Master’s degrees in Exercise Science. It was during this time that I developed a strong foundation in human physiology, biomechanics, and research methodology—skills that would become central to my future work.
 
