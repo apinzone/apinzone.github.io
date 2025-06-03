@@ -32,7 +32,7 @@ title: Projects & Publications
 ## Applied Work
 
 - **Sports Performance Modeling**  
-  Exploring using game footage and player-level data to predict player and team fatigue with machine learning classifiers (Python, R)  
+  Exploring use of game footage and player-level data to predict player and team fatigue with machine learning classifiers (Python, R)  
 
 - **Open-Source HRV Program**  
   Development of a peak detection Python algorithm to precisely calculate time-domain HRV from raw ECG signals
