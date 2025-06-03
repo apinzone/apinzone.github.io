@@ -9,10 +9,13 @@ title: Contact
   <a href="/projects">Projects & Publications</a> • 
   <a href="/contact">Contact</a>
 </div>
-#Let's work together! 
-Fill out the form below if you are interested in any research collaboration, or would like to connect.
+
+<h2 style="text-align: center;">Let's Work Together!</h2>
+<p style="text-align: center;">
+  Fill out the form below if you are interested in any research collaboration, or would like to connect.
+</p>
+
 <div style="max-width: 600px; margin: auto;">
-  <h2>Contact Me</h2>
   <form action="https://formspree.io/f/mblyjabl" method="POST">
     
     <label for="name">Name:</label><br>
@@ -24,7 +27,7 @@ Fill out the form below if you are interested in any research collaboration, or 
     <label for="message">Message:</label><br>
     <textarea id="message" name="message" rows="6" required style="width: 100%; padding: 8px;"></textarea><br><br>
 
-    <!-- Optional anti-bot honeypot field -->
+    <!-- Anti-spam honeypot -->
     <input type="text" name="_gotcha" style="display:none">
 
     <button type="submit" style="background-color: #333; color: white; padding: 10px 20px; border: none; cursor: pointer;">
@@ -33,9 +36,12 @@ Fill out the form below if you are interested in any research collaboration, or 
   </form>
 </div>
 
-#Other Information
-- 📩 apinzone10@gmail.com 
-- 🎓 [Google Scholar](https://scholar.google.com/citations?user=GMi1gHsAAAAJ&hl=en&oi=ao) 
-- 📚 [ORCID](https://orcid.org/0009-0001-1381-0868)
-- 🔗 [GitHub](https://github.com/apinzone)  
-- 🌐 [LinkedIn](https://www.linkedin.com/in/apinzone)
+<h3 style="margin-top: 2em;">Other Contact Info</h3>
+
+<ul>
+  <li>📩 apinzone10@gmail.com</li>
+  <li>🎓 <a href="https://scholar.google.com/citations?user=GMi1gHsAAAAJ&hl=en&oi=ao">Google Scholar</a></li>
+  <li>📚 <a href="https://orcid.org/0009-0001-1381-0868">ORCID</a></li>
+  <li>🔗 <a href="https://github.com/apinzone">GitHub</a></li>
+  <li>🌐 <a href="https://www.linkedin.com/in/apinzone">LinkedIn</a></li>
+</ul>
