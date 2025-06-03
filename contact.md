@@ -11,10 +11,8 @@ title: Contact
 </div>
 
 # Contact
-
--📩 apinzone10@gmail.com  
--🔗 [GitHub](https://github.com/apinzone)  
--🎓 [Google Scholar](https://scholar.google.com/citations?user=GMi1gHsAAAAJ&hl=en&oi=ao) 
--📚 [ORCID](https://orcid.org/0009-0001-1381-0868)
--🌐 [LinkedIn](https://www.linkedin.com/in/apinzone)
-
+- 📩 apinzone10@gmail.com
+- 🎓 [Google Scholar](https://scholar.google.com/citations?user=GMi1gHsAAAAJ&hl=en&oi=ao) 
+- 📚 [ORCID](https://orcid.org/0009-0001-1381-0868)
+- 🔗 [GitHub](https://github.com/apinzone)  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/apinzone)
