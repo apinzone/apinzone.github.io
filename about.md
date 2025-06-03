@@ -23,9 +23,22 @@ Today, I serve as a Lecturer in the Department of Kinesiology at California Stat
 In addition to my academic roles, I consult on applied sports science projects and am currently expanding my expertise in machine learning, predictive analytics, and Python-based modeling. Whether in the lab or the classroom, my mission remains the same: to bridge the gap between theory and practice, and to translate data into actionable insight that enhances performance, well-being, and decision-making.
 
 <div style="text-align: center; margin-top: 2em;">
-  <a href="CV PINZONE.pdf" target="_blank" style="font-size: 1.1em;">
+  <a href="CV PINZONE.pdf" target="_blank" style="
+    display: inline-block;
+    background-color: #1a73e8;
+    color: white;
+    padding: 10px 20px;
+    font-size: 1.05em;
+    border: none;
+    border-radius: 6px;
+    text-decoration: none;
+    font-weight: 500;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+    transition: background-color 0.2s ease;
+  ">
     📄 Download My Full CV (PDF)
   </a>
 </div>
+
 
 
