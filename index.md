@@ -3,20 +3,6 @@
 layout: default
 title: Home
 ---
-<style>
-  .page-header {
-    text-align: left;
-    padding-left: 2rem;
-  }
-
-  .project-name {
-    font-size: 1.4rem !important;
-  }
-
-  .project-tagline {
-    font-size: 1rem !important;
-  }
-</style>
 
 <div style="text-align: center; margin-bottom: 2em;">
   <img src="Headshot.png" alt="Dr. Anthony G. Pinzone" width="200" style="border-radius: 50%;"><br>
