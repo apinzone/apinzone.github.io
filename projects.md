@@ -31,12 +31,12 @@ _International Journal of Strength and Conditioning, 5(1), 2025_
 
 **Open-Source HRV Program**  
   ➤Development of a peak detection Python algorithm to precisely calculate time-domain HRV from raw ECG signals  
-  ➤Future goals:
+  ➤Future goals:  
     ▪ Add frequency domain measures of HRV  
-    ▪ Add sequencing-method derived baroreflex sensitivity calculations
+    ▪ Add sequencing-method derived baroreflex sensitivity calculations  
   ➤Check it out on [GitHub](https://github.com/apinzone/OS_HRV/)
 
 ## Tools & Languages
-➤Python (NumPy, Pandas, scikit-learn, PyTorch, TensorFlow, SciPy, Matplotlib)
-➤R (lme4, nlme, lmerTest, dplyr, tidyr, car, simSlope, emmeans, ggplot2, ggpubr, interactions)
+➤Python (NumPy, Pandas, scikit-learn, PyTorch, TensorFlow, SciPy, Matplotlib)  
+➤R (lme4, nlme, lmerTest, dplyr, tidyr, car, simSlope, emmeans, ggplot2, ggpubr, interactions)  
 ➤Git, Conda, Jupyter, Power BI, SPSS, Excel (including VBA), Markdown, Jekyll, GitHub Pages
