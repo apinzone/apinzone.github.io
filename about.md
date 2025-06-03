@@ -40,9 +40,6 @@ In addition to my academic roles, I consult on applied sports science projects a
   </div>
   <p style="font-size: 0.8em; margin-top: 1em;">&copy; 2025 Anthony G. Pinzone</p>
 </footer>
-    📄 Download My Full CV (PDF)
-  </a>
-</div>
 
 
 
