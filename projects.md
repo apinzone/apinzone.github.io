@@ -11,30 +11,29 @@ title: Projects & Publications
 </div>
 
 # Projects & Publications
-
 ## Selected Publications
 - **Relative Rest Index Influences Team Performance in Recent NBA Competition**  
    _Journal of Strength and Conditioning Research, In Review, 2025_  
-  * Employed a multilevel modeling approach to assess game-to-game influence of RRI on team performance during the 2022–23 through 2023–24 NBA regular seasons.
+  * ➤Employed a multilevel modeling approach to assess game-to-game influence of RRI on team performance during the 2022–23 through 2023–24 NBA regular seasons.
 
 - **The Relationship Between Relative Rest Index and Team Performance Across Competitive NFL Seasons**  
    _Journal of Strength and Conditioning Research, In Press, 2025_  
-  * Assessed the influence of RRI on win percentage during all NFL seasons dating back to 1970.
+  * ➤Assessed the influence of RRI on win percentage during all NFL seasons dating back to 1970.
 
 - **Relative Rest Index Correlates to Winning Percentage in 2022 National Football League Season: A Preliminary Study**  
    _International Journal of Strength and Conditioning, 5(1), 2025_  
-  * Developed a novel metric (RRI) to quantify rest mismatches and model their influence on game outcomes using multilevel regression.
+  * ➤Developed a novel metric (RRI) to quantify rest mismatches and model their influence on game outcomes using multilevel regression.
 
 ## Applied Work
 - **Sports Performance Modeling**  
-  * Exploring use of game footage and player-level data to predict player and team fatigue with machine learning classifiers (Python, R)
+  * ➤Exploring use of game footage and player-level data to predict player and team fatigue with machine learning classifiers (Python, R)
 
 - **Open-Source HRV Program**  
-  * Development of a peak detection Python algorithm to precisely calculate time-domain HRV from raw ECG signals  
-  * Future goals:
+  * ➤Development of a peak detection Python algorithm to precisely calculate time-domain HRV from raw ECG signals  
+  * ➤Future goals:
     - Add frequency domain measures of HRV  
-    - Add sequencing-method derived baroreflex sensitivity calculations  
-  * Check it out on [GitHub](https://github.com/apinzone/OS_HRV/)
+    - Add sequencing-method derived baroreflex sensitivity calculations
+  * ➤Check it out on [GitHub](https://github.com/apinzone/OS_HRV/)
 
 ## Tools & Languages
 - Python (NumPy, Pandas, scikit-learn, PyTorch, TensorFlow, SciPy, Matplotlib)
