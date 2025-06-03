@@ -25,7 +25,7 @@ _Journal of Strength and Conditioning Research, In Press, 2025_
 ➤ Assessed the influence of RRI on win percentage during all NFL seasons dating back to 1970.
 
 **Relative Rest Index Correlates to Winning Percentage in 2022 National Football League Season: A Preliminary Study**  
-_International Journal of Strength and Conditioning, 5(1), 2025_ [DOI](https://doi.org/10.47206/ijsc.v5i1.403)    
+_International Journal of Strength and Conditioning, 5(1), 2025_. [DOI](https://doi.org/10.47206/ijsc.v5i1.403)    
 ➤ Developed a novel metric (RRI) to quantify rest mismatches and model their influence on game outcomes using multilevel regression.
 
 ## Applied Work
