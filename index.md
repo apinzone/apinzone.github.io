@@ -1,3 +1,17 @@
+<style>
+  .page-header {
+    text-align: left;
+    padding-left: 2rem;
+  }
+
+  .project-name {
+    font-size: 1.4rem !important;
+  }
+
+  .project-tagline {
+    font-size: 1rem !important;
+  }
+</style>
 ---
 layout: default
 title: Home
