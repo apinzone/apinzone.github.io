@@ -44,7 +44,7 @@ _International Journal of Exercise Science, In Review, 2025_.
 
 **Science Communication: Healthspan**  
   ➤Synthesizing peer-reviewed scientific evidence for key physiological concepts in wellness, aging, and exercise science for a wellness-savvy audience.  
-  ➤ Article: **Tracking Stress and Recovery with HRV: What You Need to Know** -- Link coming soon!
+  ➤ Article: **Tracking Stress and Recovery with HRV: What You Need to Know** &mdash; Link coming soon!
 
 ## Tools & Languages
 ➤Python (NumPy, Pandas, scikit-learn, PyTorch, TensorFlow, SciPy, Matplotlib)  
