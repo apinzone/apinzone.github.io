@@ -28,6 +28,10 @@ _Journal of Strength and Conditioning Research, In Press, 2025_
 _International Journal of Strength and Conditioning, 5(1), 2025_. [DOI](https://doi.org/10.47206/ijsc.v5i1.403)    
 ➤ Developed a novel metric (RRI) to quantify rest mismatches and model their influence on game outcomes using multilevel regression.
 
+**Hemodynamic and Autonomic Modulation in Response to Additive Sympathetic Stressors in Young, Healthy Individuals**  
+_International Journal of Exercise Science, In Review, 2025_.  
+➤ Assessed autonomic reactivity in response to physiological stress and resistance exercise in a health, resistance-trained population. 
+
 ## Applied Work
 **Sports Performance Modeling**  
   ➤Exploring use of game footage and player-level data to predict player and team fatigue with machine learning classifiers (Python, R)
