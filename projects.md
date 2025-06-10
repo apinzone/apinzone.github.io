@@ -42,6 +42,10 @@ _International Journal of Exercise Science, In Review, 2025_.
 &nbsp;&nbsp;&nbsp;&nbsp;▪ Add sequencing-method derived baroreflex sensitivity calculations<br>
 ➤ Check out the project on [GitHub](https://github.com/apinzone/OS_HRV/)!
 
+**Science Communication: Healthspan**  
+  ➤Synthesizing peer-reviewed scientific evidence for key physiological concepts in wellness, aging, and exercise science for a wellness-savvy audience. 
+  ➤ Article: **Tracking Stress and Recovery with HRV: What You Need to Know** Link coming soon!
+
 ## Tools & Languages
 ➤Python (NumPy, Pandas, scikit-learn, PyTorch, TensorFlow, SciPy, Matplotlib)  
 ➤R (lme4, nlme, lmerTest, dplyr, tidyr, car, simSlope, emmeans, ggplot2, ggpubr, interactions)  
