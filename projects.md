@@ -30,7 +30,7 @@ _International Journal of Strength and Conditioning, 5(1), 2025_. [DOI](https://
 
 **Hemodynamic and Autonomic Modulation in Response to Additive Sympathetic Stressors in Young, Healthy Individuals**  
 _International Journal of Exercise Science, In Review, 2025_.  
-➤ Assessed autonomic reactivity in response to physiological stress and resistance exercise in a health, resistance-trained population. 
+➤ Assessed autonomic reactivity in response to physiological stress and resistance exercise in a healthy, resistance-trained population. 
 
 ## Applied Work
 **Sports Performance Modeling**  
