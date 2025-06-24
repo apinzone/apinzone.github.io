@@ -38,7 +38,7 @@ _International Journal of Exercise Science, In Review, 2025_.
 
 **Open-Source HRV Program**  
 ➤ Development of a peak detection Python algorithm to precisely calculate time- and frequency-domain HRV from raw ECG signals as well as baroreflex sensitivity from comparison of RRI time series and corresponding time series of PPG-derived blood pressure waves.  
-➤ Future goals: Validation study currently in progress.  
+➤ Future goals: Full release as a valid signal processing research tool (*Validation study currently in progress*).  
 ➤ Check out the project on [GitHub](https://github.com/apinzone/OS_HRV/)!
 
 **Science Communication: Healthspan**  
