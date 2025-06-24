@@ -27,6 +27,7 @@ _Journal of Strength and Conditioning Research, In Press, 2025_
 **Relative Rest Index Correlates to Winning Percentage in 2022 National Football League Season: A Preliminary Study**  
 _International Journal of Strength and Conditioning, 5(1), 2025_. [DOI](https://doi.org/10.47206/ijsc.v5i1.403)    
 ➤ Developed a novel metric (RRI) to quantify rest mismatches and asess their influence on win percentage in recent NFL competition.  
+
 **Hemodynamic and Autonomic Modulation in Response to Additive Sympathetic Stressors in Young, Healthy Individuals**  
 _International Journal of Exercise Science, In Review, 2025_.  
 ➤ Assessed autonomic reactivity in response to physiological stress and resistance exercise in a health, resistance-trained population. 
