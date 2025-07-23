@@ -21,7 +21,7 @@ _Journal of Strength and Conditioning Research, In Review, 2025_
 ➤ Employed a multilevel modeling approach to assess game-to-game influence of RRI on team performance during the 2022–23 through 2023–24 NBA regular seasons.
 
 **The Relationship Between Relative Rest Index and Team Performance Across Competitive NFL Seasons**  
-_Journal of Strength and Conditioning Research, Ahead of Print, 2025_. [DOI](10.1519/JSC.0000000000005148)  
+_Journal of Strength and Conditioning Research, 39(8):875-879, 2025_. [DOI](10.1519/JSC.0000000000005148)  
 ➤ Assessed the influence of RRI on win percentage during all NFL seasons dating back to 1970.
 
 **Relative Rest Index Correlates to Winning Percentage in 2022 National Football League Season: A Preliminary Study**  
