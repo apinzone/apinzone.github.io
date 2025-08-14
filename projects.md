@@ -13,7 +13,8 @@ title: Projects & Publications
 # Projects & Publications
 
 Feel free to check out my [Google Scholar](https://scholar.google.com/citations?user=GMi1gHsAAAAJ&hl=en) or [ORCID](https://orcid.org/0009-0001-1381-0868) profiles to view all of my peer-reviewed research contributions.
-My CV can also be accessed [here](<a href="/CV%20PINZONE.pdf" target="_blank")
+[My CV can also be accessed here](/CV%20PINZONE.pdf)
+
 
 ## Selected Publications
 
