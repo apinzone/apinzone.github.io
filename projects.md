@@ -38,10 +38,12 @@ _International Journal of Exercise Science, In Review, 2025_.
 **Sports Performance Modeling**  
   ➤Exploring use of game footage and player-level data to predict player and team fatigue with machine learning classifiers (Python, R)
 
-**Open-Source HRV Program**  
-➤ Development of a peak detection Python algorithm to precisely calculate time- and frequency-domain HRV from raw ECG signals as well as baroreflex sensitivity from comparison of RRI time series and corresponding time series of PPG-derived blood pressure waves.  
-➤ Future goals: Full release as a valid signal processing research tool (*Validation study currently in progress*).  
-➤ Check out the project on [GitHub](https://github.com/apinzone/OS_HRV/)!
+**PhysioKit: Open-Source HRV & BRS Analysis Platform**  
+➤ Comprehensive Python-based toolkit for cardiovascular signal analysis, featuring advanced peak detection algorithms for precise calculation of time- and frequency-domain HRV metrics from raw ECG signals and baroreflex sensitivity analysis from synchronized ECG and blood pressure data.  
+➤ Multi-format support for ACQ (AcqKnowledge) and EDF/BDF (European Data Format) physiological data files with intelligent channel detection and automatic signal scaling.  
+➤ **Live deployment**: Fully functional web application available for immediate use by the research community.  
+➤ Rigorous algorithm validation study currently underway for peer-reviewed publication.  
+➤ **Try it live**: [PhysioKit Web App](https://physiokit.streamlit.app) | **Source code**: [GitHub Repository](https://github.com/apinzone/OS_HRV/)
 
 **Science Communication: Healthspan**  
   ➤Synthesizing peer-reviewed scientific evidence for key physiological concepts in wellness, aging, and exercise science for a wellness-savvy audience.  
