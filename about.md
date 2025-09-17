@@ -12,15 +12,17 @@ title: About
 
 # About Me
 
-I’m Anthony Pinzone, a data scientist, applied exercise physiologist, and university lecturer with a deep-rooted passion for uncovering the physiological and behavioral mechanisms behind human performance.
+I’m Anthony Pinzone, a data scientist, applied exercise physiologist, and university lecturer with a deep-rooted passion for uncovering the physiological and behavioral mechanisms behind human performance. My work sits at the intersection of sports science, cardiovascular physiology, and computational modeling.
 
-My academic journey began at Hofstra University, where I earned both my Bachelor’s and Master’s degrees in Exercise Science. It was during this time that I developed a strong foundation in human physiology, biomechanics, and research methodology—skills that would become central to my future work.
+I earned my Bachelor’s and Master’s degrees in Exercise Science at Hofstra University and later completed my Ph.D. in Exercise Physiology at Kent State University. My doctoral research introduced the Relative Rest Index (RRI), a novel metric to quantify rest disparities in professional sports schedules, using advanced multilevel and hierarchical modeling to evaluate their impact on NBA and NFL team performance.
 
-I later pursued my Ph.D. in Exercise Physiology at Kent State University, where my research focused on athlete fatigue, game scheduling, and performance analytics in professional sports. My doctoral dissertation introduced the Relative Rest Index (RRI), a novel metric designed to quantify rest disparities and model their influence on game outcomes in the NBA and NFL. This work combined traditional physiological insight with advanced statistical modeling techniques, including hierarchical linear modeling and multilevel regression.
+oday, I lecture in the Department of Kinesiology at California State University San Marcos and also teach at San Diego State University. I remain actively engaged in research across two main domains:
 
-Today, I serve as a Lecturer in the Department of Kinesiology at California State University San Marcos, where I teach courses in exercise physiology, research methods, and special populations. I also teach part-time at San Diego State University. I’m deeply passionate about the research process and remain actively involved in multiple projects. Currently, my primary focus is on modeling the relationship between athlete recovery and team performance across multiple professional sports, with an emphasis on data-driven methods to enhance performance outcomes. I also have a specific interest in cardiovascular physiology and ECG and PPG signal processing. 
+        Sports analytics – modeling recovery, fatigue, and competitive scheduling to understand how physiological and contextual factors shape performance.
 
-In addition to my academic roles, I consult on applied sports science projects and am currently expanding my expertise in machine learning, predictive analytics, and Python-based modeling. Whether in the lab or the classroom, my mission remains the same: to bridge the gap between theory and practice, and to translate data into actionable insight that enhances performance, well-being, and decision-making.
+        Cardiovascular signal processing – developing open-source tools for heart rate variability (HRV), baroreflex sensitivity (BRS), and multimodal sensor data, with an emphasis on reproducibility and validation.
+
+In addition to my academic roles, I consult on applied sports science projects and am currently expanding my expertise in machine learning, predictive analytics, and Python-based modeling. Whether in the lab or the classroom, my goal is to bridge the gap between physiology, data science, and practical application.
 
 <footer style="text-align: center; margin-top: 3em; padding-top: 1em; border-top: 1px solid #ccc;">
   <p style="margin-bottom: 0.5em; color: black;">Connect with me:</p>
