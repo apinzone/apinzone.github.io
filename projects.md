@@ -51,7 +51,7 @@ _International Journal of Strength and Conditioning, 5(1), 2025_. [DOI](https://
 
 **Science Communication: Healthspan**  
   ➤Synthesizing peer-reviewed scientific evidence for key physiological concepts in wellness, aging, and exercise science for a wellness-savvy audience.  
-  ➤ [Article](https://gethealthspan.com/science/article/hrv-and-oxytocin): *Understanding HRV as a Real-Time Marker of Neural Responsiveness. How Does Oxytocin Change the Signal?*
+  ➤ [Article](https://gethealthspan.com/science/article/hrv-and-oxytocin): *Understanding HRV as a Real-Time Marker of Neural Responsiveness. How Does Oxytocin Change the Signal?*  
   ➤ [Article](https://www.gethealthspan.com/research/article/rapamycin-and-muscle-preservation): *Synergistic Effects of Rapamycin and Exercise for Maximizing Muscular Strength*
 
 **Sports Performance Modeling**  
