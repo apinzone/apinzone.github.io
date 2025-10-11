@@ -12,11 +12,11 @@ title: About
 
 # About Me
 
-I’m Anthony Pinzone, a data scientist, applied exercise physiologist, and university lecturer with a deep-rooted passion for uncovering the physiological and behavioral mechanisms behind human performance. My work sits at the intersection of sports science, cardiovascular physiology, and computational modeling.
+I’m Anthony Pinzone, an applied exercise physiologist, and university lecturer with a deep-rooted passion for uncovering the physiological and behavioral mechanisms behind human performance. My work sits at the intersection of sports science, cardiovascular physiology, and computational modeling.
 
 I earned my Bachelor’s and Master’s degrees in Exercise Science at Hofstra University and later completed my Ph.D. in Exercise Physiology at Kent State University. My doctoral research introduced the Relative Rest Index (RRI), a novel metric to quantify rest disparities in professional sports schedules, using advanced multilevel and hierarchical modeling to evaluate their impact on NBA and NFL team performance.
 
-oday, I lecture in the Department of Kinesiology at California State University San Marcos and also teach at San Diego State University. I remain actively engaged in research across two main domains: 1) Sports analytics – modeling recovery, fatigue, and competitive scheduling to understand how physiological and contextual factors shape performance and 2) Cardiovascular signal processing – developing open-source tools for heart rate variability (HRV), baroreflex sensitivity (BRS), and multimodal sensor data, with an emphasis on reproducibility and validation.
+Today, I lecture fill-time in the Department of Kinesiology at California State University San Marcos and also teach at San Diego State University. I remain actively engaged in research across two main domains: 1) Cardiovascular signal processing – developing open-source tools for heart rate variability (HRV), baroreflex sensitivity (BRS), and multimodal sensor data, with an emphasis on reproducibility and validation, and 2) Sports analytics – modeling recovery, fatigue, and competitive scheduling to understand how physiological and contextual factors shape performance.
 
 In addition to my academic roles, I consult on applied sports science projects and am currently expanding my expertise in machine learning, predictive analytics, and Python-based modeling. Whether in the lab or the classroom, my goal is to bridge the gap between physiology, data science, and practical application.
 
