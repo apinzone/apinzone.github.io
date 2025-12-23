@@ -23,8 +23,12 @@ _Computer Methods and Programs in Biomedicine, In Review, 2025_.
 ➤ Validation of our comprehensive pipeline for ECG peak detection and measurement of time domain, frequency domain, and non-linear HRV. 
 
 **Hemodynamic and Autonomic Modulation in Response to Additive Sympathetic Stressors in Young, Healthy Individuals**  
-_International Journal of Exercise Science, In Press, 2025_.  
+_International Journal of Exercise Science, 18(6), 1047-1060, 2025_. [DOI](10.70252/WWDK4926) 
 ➤ Assessed autonomic reactivity in response to physiological stress and resistance exercise in a healthy, resistance-trained population. 
+
+**Real-Time Nitric Oxide Bioactivity Response to a Bout of High-vs Low-Load Resistance Exercise**
+_Journal of Fitness, Wellness, and Human Performance, 2025_. [DOI](10.70834/jfwhp-25-0001)
+➤ Investigated dynamic responses in nitric oxide and muscle oxygen saturation dynamics surrounding resistance exercise. 
 
 **Relative Rest Index Influences Team Performance and Game Outcomes in Recent NBA Competition**  
 _Journal of Strength and Conditioning Research, In Press, 2025_  
@@ -33,10 +37,6 @@ _Journal of Strength and Conditioning Research, In Press, 2025_
 **The Relationship Between Relative Rest Index and Team Performance Across Competitive NFL Seasons**  
 _Journal of Strength and Conditioning Research, 39(8):875-879, 2025_. [DOI](10.1519/JSC.0000000000005148)  
 ➤ Assessed the influence of RRI on win percentage during all NFL seasons dating back to 1970.
-
-**Relative Rest Index Correlates to Winning Percentage in 2022 National Football League Season: A Preliminary Study**  
-_International Journal of Strength and Conditioning, 5(1), 2025_. [DOI](https://doi.org/10.47206/ijsc.v5i1.403)    
-➤ Developed a novel metric (RRI) to quantify rest mismatches and asess their influence on win percentage in recent NFL competition.  
 
 
 
