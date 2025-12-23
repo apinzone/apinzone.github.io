@@ -23,11 +23,11 @@ _Computer Methods and Programs in Biomedicine, In Review, 2025_.
 ➤ Validation of our comprehensive pipeline for ECG peak detection and measurement of time domain, frequency domain, and non-linear HRV. 
 
 **Hemodynamic and Autonomic Modulation in Response to Additive Sympathetic Stressors in Young, Healthy Individuals**  
-_International Journal of Exercise Science, 18(6), 1047-1060, 2025_. [DOI](10.70252/WWDK4926) 
+_International Journal of Exercise Science, 18(6), 1047-1060, 2025_. [DOI](10.70252/WWDK4926)   
 ➤ Assessed autonomic reactivity in response to physiological stress and resistance exercise in a healthy, resistance-trained population. 
 
 **Real-Time Nitric Oxide Bioactivity Response to a Bout of High-vs Low-Load Resistance Exercise**
-_Journal of Fitness, Wellness, and Human Performance, 2025_. [DOI](10.70834/jfwhp-25-0001)
+_Journal of Fitness, Wellness, and Human Performance, 2025_. [DOI](10.70834/jfwhp-25-0001)  
 ➤ Investigated dynamic responses in nitric oxide and muscle oxygen saturation dynamics surrounding resistance exercise. 
 
 **Relative Rest Index Influences Team Performance and Game Outcomes in Recent NBA Competition**  
