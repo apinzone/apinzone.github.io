@@ -50,13 +50,13 @@ _Journal of Strength and Conditioning Research, 39(8):875-879, 2025_. [DOI](10.1
 ➤ **Try it live**: [ChronOS Web App](https://chronoshrv.up.railway.app) | **Source code**: [GitHub Repository](https://github.com/apinzone/OS_HRV/)
 
 **Science Communication: Healthspan**  
-  ➤Synthesizing peer-reviewed scientific evidence for key physiological concepts in wellness, aging, and exercise science for a wellness-savvy audience.  
-  ➤ [Article](https://gethealthspan.com/science/article/hrv-and-oxytocin): *Understanding HRV as a Real-Time Marker of Neural Responsiveness. How Does Oxytocin Change the Signal?*  
-  ➤ [Article](https://www.gethealthspan.com/research/article/exercise-modalities-and-mitochondrial-and-vascular-remodeling): *Exercise Modalities and Mitochondrial and Vascular Remodeling—Comparing Endurance, HIIT, and Sprint Interval Training*
-  ➤ [Article](https://www.gethealthspan.com/research/article/rapamycin-and-muscle-preservation): *Synergistic Effects of Rapamycin and Exercise for Maximizing Muscular Strength*
+➤Synthesizing peer-reviewed scientific evidence for key physiological concepts in wellness, aging, and exercise science for a wellness-savvy audience.  
+➤ [Article](https://gethealthspan.com/science/article/hrv-and-oxytocin): *Understanding HRV as a Real-Time Marker of Neural Responsiveness. How Does Oxytocin Change the Signal?*  
+➤ [Article](https://www.gethealthspan.com/research/article/exercise-modalities-and-mitochondrial-and-vascular-remodeling): *Exercise Modalities and Mitochondrial and Vascular Remodeling—Comparing Endurance, HIIT, and Sprint Interval Training*  
+➤ [Article](https://www.gethealthspan.com/research/article/rapamycin-and-muscle-preservation): *Synergistic Effects of Rapamycin and Exercise for Maximizing Muscular Strength*
   
 ## Tools & Languages
 ➤Python (NumPy, Pandas, scikit-learn, SciPy, Matplotlib, Plotly, Streamlit) 
-➤MATLAB (building ODE solvers for physiological simulations)
+➤MATLAB (building ODE solvers for physiological simulations)  
 ➤R (lme4, nlme, lmerTest, dplyr, tidyr, car, simSlope, emmeans, ggplot2, ggpubr, interactions)  
 ➤Git, Conda, Jupyter, Power BI, SPSS, Excel (including VBA), Markdown, Jekyll, GitHub Pages
