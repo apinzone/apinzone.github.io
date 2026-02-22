@@ -56,7 +56,7 @@ _Journal of Strength and Conditioning Research, 39(8):875-879, 2025_. [DOI](10.1
 ➤ [Article](https://www.gethealthspan.com/research/article/rapamycin-and-muscle-preservation): *Synergistic Effects of Rapamycin and Exercise for Maximizing Muscular Strength*
   
 ## Tools & Languages
-➤Python (NumPy, Pandas, scikit-learn, SciPy, Matplotlib, Plotly, Streamlit) 
+➤Python (NumPy, Pandas, scikit-learn, SciPy, Matplotlib, Plotly, Streamlit)   
 ➤MATLAB (building ODE solvers for physiological simulations)  
 ➤R (lme4, nlme, lmerTest, dplyr, tidyr, car, simSlope, emmeans, ggplot2, ggpubr, interactions)  
 ➤Git, Conda, Jupyter, Power BI, SPSS, Excel (including VBA), Markdown, Jekyll, GitHub Pages
