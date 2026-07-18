@@ -4,7 +4,7 @@ title: Home
 ---
 <div style="text-align: center; margin-bottom: 2em;">
   <img src="Headshot.png" alt="Dr. Anthony G. Pinzone" 
-     width="250" height="250" 
+     width="200" height="200" 
      style="border-radius: 50%; object-fit: cover;">
   <h1 style="margin: 0.4em 0 0.2em;">Dr. Anthony G. Pinzone</h1>
   <p><strong>Postdoctoral Researcher • University of California, Davis</strong><br>
